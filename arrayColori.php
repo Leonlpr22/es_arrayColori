@@ -12,7 +12,7 @@
 
         $lista = [];
         for ($i = 0; $i <= $num; $i++) {
-            $lista[] = $i; // Aggiungere il numero all'array
+            $lista[] = $i;
         }
 
         $colori = ["rosso", "verde", "blu", "giallo", "arancione"];
